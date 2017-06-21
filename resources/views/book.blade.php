@@ -3,5 +3,5 @@
 
 
 @section('content')
-    <p>This is my body content.</p>
+    <p>Book</p>
 @endsection
